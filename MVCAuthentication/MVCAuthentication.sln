@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCAuthentication", "MVCAuthentication\MVCAuthentication.csproj", "{1013E92E-A9F7-4738-8C00-606B30A370FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1013E92E-A9F7-4738-8C00-606B30A370FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1013E92E-A9F7-4738-8C00-606B30A370FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1013E92E-A9F7-4738-8C00-606B30A370FE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1013E92E-A9F7-4738-8C00-606B30A370FE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1013E92E-A9F7-4738-8C00-606B30A370FE}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{1013E92E-A9F7-4738-8C00-606B30A370FE}.Testing|Any CPU.Build.0 = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95C5D17-325E-4076-9C4B-39A1FEBB6460}
+	EndGlobalSection
+EndGlobal
